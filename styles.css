@@ -38,7 +38,30 @@ header {
 .indexlist {
     list-style-type: none;
     text-emphasis-color: #008080;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
- 
+
+li, a {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: right;
+    color:#008080;
+}
+
+a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
